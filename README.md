@@ -41,7 +41,7 @@ SAYC/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SAYC.git
+git clone https://github.com/DahomeyGX/SAYC.git
 cd SAYC
 ```
 
