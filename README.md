@@ -59,14 +59,6 @@ npm run dev
 ```
 Visit http://localhost:5173 to view the app in your browser.
 
-Customization Guide
-Task	File or Folder
-Update scholar bios	src/data/scholars.json
-Edit school/program info	src/data/schools.json
-Change colors, fonts, logo	src/assets/, index.css
-Replace favicon	public/favicon.svg
-Modify layout/navigation	src/components/
-
 Deployment
 Vercel
 Push to GitHub
